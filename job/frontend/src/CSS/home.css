@@ -1,0 +1,141 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,400;1,100&display=swap");
+
+.homepage-outermain{
+    font-family: "Lato", sans-serif;
+    font-weight:600;
+    overflow-x: hidden;
+}
+
+.head{
+    background: url('../images/back2.jpg') no-repeat center; 
+    background-size: 150%;
+    width: 100%;
+    height: 735px;
+    margin-top:0;
+}
+.accordion{
+    letter-spacing:5px;
+    margin-left:auto ;
+    margin-right:auto ;
+    margin-bottom: 4em;
+    margin-top:200px ;
+    background: transparent;
+    color: white;
+    text-align: center;
+    font-weight:800;
+}
+
+.person-wrapper{
+    margin-bottom: 2em;
+}
+.profile-pic{
+    width:50%;
+}
+
+.homepagebtn1{
+    padding: 8px 42px;
+    text-align: center;
+    background-color: white;
+    color: black;
+    font-weight: 600;
+    border-radius: 50px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+}
+
+.text-center{
+    letter-spacing:2px;
+    font-weight:600;
+}
+
+.system-center{
+    margin: auto;
+    letter-spacing:10px;
+    padding: 35px;
+    text-align: center;
+    background-color:#0F0F27;
+    width:100%;
+    height:auto;
+    color: white;
+}
+
+h3{
+    margin-top: 20px;
+    margin-bottom: 1em;
+    font-weight:600;
+}
+.banner{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-bottom: 1px linear;
+}
+
+.testimonial{
+    margin-top: 15px;
+    margin-bottom: 55px;
+}
+
+.instructions{
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+.cardgroup{
+    text-decoration: none;
+    width: 100%;
+    margin-left:20px;
+    margin-right:20px;
+}
+
+.searchboxjobs {
+    font-weight:600;
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 0;
+    padding-bottom: 3px;
+    margin-top: 10px;
+    border-radius: 23px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+    background-color: white;
+    outline: 1px solid rgba(0, 0, 0, 0.226);
+  }
+  
+  .searchboxjobs:hover {
+    outline: 1px solid rgba(0, 0, 0, 0.4);
+  }
+  
+  .searchinjobs {
+    font-weight:600;
+    width: 66%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    border: 0;
+    padding-left: 10px;
+  }
+
+  .searchinjobs:focus {
+    border-color: black;
+    outline: 0;
+  }
+  
+  .searchiconjobs {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    margin-left: 5px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 5px;
+  }
+  
+  .advancedsearhjobs {
+    font-weight:600;
+    width: 15%;
+    border-radius: 30px;
+    background-color:#c5cedf;
+  }
+  

@@ -1,0 +1,50 @@
+.addjobform-comp{
+    width: 500px;
+    height: fit-content;
+   
+}
+
+.addformtextlabel{
+    margin-bottom: 0px;
+}
+
+.addformtextinput{
+    background-color: #F2F8FE;
+    outline: none;
+    border: none;
+    padding: 5px 5px 5px 5px;
+    margin-bottom: 5px;
+}
+
+.addformtextinput:focus{
+    
+}
+
+.dividerpopupaddform2{
+    width: 100%;
+    color: #FF7A00;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 50%;
+
+}
+
+.addjobforminput{
+    height: 100px;
+    background-color: #F2F8FE;
+    border: none;
+    margin-top: 5px;
+}
+
+.addfrormpopupbtn-box{
+    text-align: center;
+
+}
+
+.addfrormpopupbtn{
+    width: 150px;
+}
+
+
+
+

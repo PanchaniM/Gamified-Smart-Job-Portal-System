@@ -1,0 +1,25 @@
+.btniconsiq2{
+  font-size: 19px;
+  color: white;
+  margin-left: 10px;
+  margin-top: -5px;
+}
+
+.addjobpostbtn-layer{
+  /* justify-content: end; */
+  display: flex;
+  width: 100%;
+  height: 50px;
+  margin-bottom: 10px;
+}
+
+.addjobpostbtn{
+  width: 200px;
+  margin-left: 2%;
+  /* margin-right: 2%; */
+}
+
+.addjobpostbtnicon{
+  font-size: 24px;
+  margin-right: 50px;
+}

@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.resumebuil-header{
+    font-size: 22px;
+    font-weight: bold;
+    font-family: lato, sans-serif;
+    margin-left: 240px;
+    margin-top: 20px;
+}
+
+.resumebuilhr{
+    margin-left: 240px;
+    margin-bottom:0;
+    width: 70px;
+    height: 3px !important;
+    stroke: 5px;
+    border-radius: 25px;
+    margin-top: -15px;
+    opacity: 80%;
+    color: #FFB800;
+}
